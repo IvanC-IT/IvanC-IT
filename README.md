@@ -11,10 +11,9 @@ I also work in application security by reverse engineering using __IDA__, __X64d
 ---
 🚀 ME;
 <br>
-<img align="right" src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/Memoji.png" width="200"/>
-<p aligh="left">
+<p aligh="center">
  
-  I'm Back End developer from <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/Italy_Flag_Rounded.svg" width="14px"/> <b>Turin, Italy</b>.</p>
+  I'm __Back End__ __Developer__ from <b>Turin, Italy</b>.</p>
   	
   💡  &nbsp;I like to explore new trends and learn new technologies.\
   🚧 &nbsp;I'm currently working on two new secret projects ... 👀.\
