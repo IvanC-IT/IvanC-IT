@@ -34,10 +34,7 @@ I also work in application security by reverse engineering using __IDA__, __X64d
 <br />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes K8s Logo" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg" alt="Laravel Logo" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-plain-wordmark.svg" alt="Apache Logo" width="50" height="50"/>
 <br />
-
-
 ---
-
 <div align="center">
 
 <h2 align="center">Welcome</h2>
@@ -56,6 +53,3 @@ I also work in application security by reverse engineering using __IDA__, __X64d
         </tbody>
     </table>
 </div>
----
-
-
