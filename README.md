@@ -5,6 +5,7 @@
 
 I am a sunny Italian boy, almost ten years old "tested in battle" __Back End Developer__.
 In recent years I have mainly been a __consultant__, implementing: Tibco, API (Axway), Database, Microservices for B2B / B2C solutions; my clients mainly dealt with: __Financing__, __Technologies__, __Sport__, __Banks__, __Events__.
+As a good developer I have a general knowledge of languages, but my weapons are  __Java__,  __C++__, __Python__, __Js__
 
 ---
 🚀 BIO TLDR;
