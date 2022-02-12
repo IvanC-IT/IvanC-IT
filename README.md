@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/-Twitter-informational?style=for-the-badge&logo=twitter&logoColor=white&color=00aced)](https://twitter.com/ivcaric)
 [![](https://img.shields.io/badge/-Linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=2867B2)](https://www.linkedin.com/in/ivan-roberto-caricato-268904185)
 
-I am a sunny Italian boy, almost ten years old "tested in battle" __Back End Developer__.
+I am a sunny Italian boy, almost ten years old "tested in battle" __Back End Developer__.<br>
 In recent years I have mainly been a __consultant__, implementing: Tibco, API (Axway), Database, Microservices for B2B / B2C solutions; my clients mainly dealt with: __Financing__, __Technologies__, __Sport__, __Banks__, __Events__.<br>
 As a good developer I have a general knowledge of languages, but my weapons are  __Java__,  __C++__, __Python__, __Js__
 
