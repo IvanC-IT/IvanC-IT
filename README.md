@@ -45,8 +45,8 @@ I also work in application security by reverse engineering using __IDA__, __X64d
         <tbody>
             <tr>
                 <td>
-                    <a href="https://profile-counter.glitch.me/ivan-pesenti/count.svg">
-                        <img src="https://profile-counter.glitch.me/ivan-pesenti/count.svg" alt="img of number of profile's visitors"/>
+                    <a href="https://profile-counter.glitch.me/IvanC-IT/count.svg">
+                        <img src="https://profile-counter.glitch.me/IvanC-IT/count.svg" alt="img of number of profile's visitors"/>
                     </a>
                 </td>
             </tr>        
