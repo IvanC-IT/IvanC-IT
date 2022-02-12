@@ -39,7 +39,51 @@ I also work in application security by reverse engineering using __IDA__, __X64d
 ---
 
 📚 Feed
+<div align="center">
 
+<h2 align="center">Social</h2>
+    <table align="center">
+        <thead>
+            <th>Reach me out</th>
+            <th>Github profile visitors count</th>
+        </thead>
+        <tbody>
+            <tr>
+                <td>
+                <a href="https://twitter.com/PesentiIvan">
+                    <img width="28px" src="./img/icons/twitter.svg" alt="twitter icon"/>
+                </a>&nbsp;&nbsp;
+                <a href="https://www.linkedin.com/in/ivan-pesenti-735232119/">
+                    <img width="28px" src="./img/icons/linkedin.svg" alt="linkedin icon"/>
+                </a>&nbsp;&nbsp;
+                <a href="https://www.facebook.com/ivan.pesenti.52/">
+                    <img width="28px" src="./img/icons/facebook.svg" alt="facebook icon"/>
+                </a>&nbsp;&nbsp;
+                <a href="https://www.instagram.com/ivan_pesenti/?hl=it">
+                    <img width="28px"  src="./img/icons/instagram.svg" alt="instagram icon"/>
+                </a>&nbsp;&nbsp;
+                <a href="mailto:ivan.pesenti.dev@gmail.com?subject=Mail%20from%20GitHub">
+                    <img width="28px"  src="./img/icons/gmail.svg" alt="gmail icon"/>
+                </a>&nbsp;&nbsp;
+                <a href="https://discordapp.com/users/750370897105518644">
+                    <img width="28px"  src="./img/icons/discord.svg" alt="discord icon"/>
+                </a>&nbsp;&nbsp;
+                <a href="https://join.slack.com/t/newworkspace-pyr4305/shared_invite/zt-kjt2z3w1-jU1zs4Cn41wCKQoBFKO~SA">
+                    <img width="28px"  src="./img/icons/slack.svg" alt="slack icon"/>
+                </a>&nbsp;&nbsp;
+                <a href="https://join.skype.com/invite/mhebFNY9SEsu">
+                    <img width="28px"  src="./img/icons/skype.svg" alt="skype icon"/>
+                </a>
+                </td>
+                <td>
+                    <a href="https://profile-counter.glitch.me/ivan-pesenti/count.svg">
+                        <img src="https://profile-counter.glitch.me/ivan-pesenti/count.svg" alt="img of number of profile's visitors"/>
+                    </a>
+                </td>
+            </tr>        
+        </tbody>
+    </table>
+</div>
 ---
 
 My [github action](https://github.com/simonecorsi/mawesome) is generating an awesome list of the thousands of projects I've starred over the years, [take a look](https://github.com/simonecorsi/awesome) if you want!
