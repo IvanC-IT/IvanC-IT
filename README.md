@@ -6,7 +6,7 @@
 I'm Italian boy, almost fifteen years old "tested in battle" __Back End Developer__.<br>
 In recent years I have mainly been a __consultant__, implementing: Tibco, API (Axway), Database, Microservices for B2B / B2C solutions; my clients mainly dealt with: __Financing__, __Technologies__, __Sport__, __Banks__, __Events__.<br>
 As a good developer I have a general knowledge of languages, but my most effective weapons are  __Java__, __C#__, __C++__, __Python__, __Js__, __NodeJS__, __TypeScript__, __PHP__.<br>
-I also work in application security by reverse engineering using __IDA__, __X64dbg__ and other tools of the CyberSec.
+I also work in application security by reverse engineering using __IDA__, __X64dbg__ and other tools of the CyberSec && __Machine__ __Lerning__ .
 
 ---
 🚀 ME...
