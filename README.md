@@ -3,13 +3,9 @@
 [![](https://img.shields.io/badge/-Twitter-informational?style=for-the-badge&logo=twitter&logoColor=white&color=00aced)](https://twitter.com/ivcaric)
 [![](https://img.shields.io/badge/-Linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=2867B2)](https://www.linkedin.com/in/ivan-roberto-caricato-268904185)
 
-I’m a sunny Italian guy, nearly decade-old "battle-tested" and language agnostic __Software Developer__, mainly focussed on __Backend__ .
+I am a sunny Italian boy, almost ten years old "tested in battle" __Software developer__,.
 
-Currently **Tech Leader** at **Immobiliare.it**, the #1 Real Estate company in Italy, part of its internal *Developer Experience* and *Technological Advancement* team, also member of the internal open source initiative committee.
-
-In the past years I've mostly been a *consultant*, I've had the chance to take ownership and lead of backends and systems, designing and supervising implementations of: APIs architectures, Databases, systems topologies and integrations for B2B/B2C solutions; my customers has mostly been about: *retail, oil, sports, banking and events*.
-
-Now that I'm done with all the buzzwords for the SEO! Let's just recap for humans:
+In recent years I have been mainly a * consultant *, implementing: API architectures, Database, microservices for B2B / B2C solutions; my clients mainly dealt with: * financing, technologies, sports, banks and events *.
 
 ---
 🚀 BIO TLDR;
@@ -20,12 +16,11 @@ Now that I'm done with all the buzzwords for the SEO! Let's just recap for human
  
   I'm Back End developer from <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/Italy_Flag_Rounded.svg" width="14px"/> <b>Turin, Italy</b>.</p>
   	
-  💡 &nbsp;I like to explore new trends and learn new technologies.\
+  💡  &nbsp;I like to explore new trends and learn new technologies.\
   🚧 &nbsp;I'm currently working on two new secret projects ... 👀.\
-  ✍🏼 &nbsp;I've recently started writing some articles on <a href="https://th3wall.hashnode.dev/" target="_blank"><u>my brand new blog</u></a>.\
   🌱 &nbsp;Nature lover.\
   💬 &nbsp;Feel free to reach out to me for consulting, volunteering or just for some interesting discussion.\
-  🪐 &nbsp;Science passionate.\
+  🪐 &nbsp;Science passionate.
 </p>
 <br>
 
