@@ -12,17 +12,11 @@ In the past years I've mostly been a *consultant*, I've had the chance to take o
 Now that I'm done with all the buzzwords for the SEO! Let's just recap for humans:
 
 ---
-
 🚀 BIO TLDR;
-
----
 <br>
-
 <img align="right" src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/Memoji.png" width="200"/>
 <p aligh="left">
-  <p>Hey there, welcome!</br>
-  I'm Ivan, Back End developer from <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/Italy_Flag_Rounded.svg" width="14px"/> <b>Turin, Italy</b>.</p>
-  	
+I'm  Back End developer from <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/Italy_Flag_Rounded.svg" width="14px"/> <b>Turin, Italy</b>.</p>
 - 💡  I like to explore new trends and learn new technologies.
 - 🚧  I'm currently working on two new secret projects ... 👀.
 - 💬  Feel free to reach out to me for consulting, volunteering or just for some interesting discussion.
@@ -30,7 +24,6 @@ Now that I'm done with all the buzzwords for the SEO! Let's just recap for human
 - 🪐 Science passionate
 </p>
 <br>
-
 ---
 
 🧰 Toolbox
