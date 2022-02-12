@@ -17,11 +17,11 @@ Now that I'm done with all the buzzwords for the SEO! Let's just recap for human
 <img align="right" src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/Memoji.png" width="200"/>
 <p aligh="left">
 I'm  Back End developer from <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/Italy_Flag_Rounded.svg" width="14px"/> <b>Turin, Italy</b>.</p>
-- 💡  I like to explore new trends and learn new technologies.
-- 🚧  I'm currently working on two new secret projects ... 👀.
-- 💬  Feel free to reach out to me for consulting, volunteering or just for some interesting discussion.
-- 🌱 Nature lover
-- 🪐 Science passionate
+- 💡  I like to explore new trends and learn new technologies.\
+- 🚧  I'm currently working on two new secret projects ... 👀.\
+- 💬  Feel free to reach out to me for consulting, volunteering or just for some interesting discussion.\
+- 🌱 Nature lover.\
+- 🪐 Science passionate.\
 </p>
 <br>
 ---
