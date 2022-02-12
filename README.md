@@ -3,14 +3,13 @@
 [![](https://img.shields.io/badge/-Twitter-informational?style=for-the-badge&logo=twitter&logoColor=white&color=00aced)](https://twitter.com/ivcaric)
 [![](https://img.shields.io/badge/-Linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=2867B2)](https://www.linkedin.com/in/ivan-roberto-caricato-268904185)
 
-I am a sunny Italian boy, almost ten years old "tested in battle" __Software developer__,.
+I am a sunny Italian boy, almost ten years old "tested in battle" __Back End Developer__,.
 
-In recent years I have been mainly a * consultant *, implementing: API architectures, Database, microservices for B2B / B2C solutions; my clients mainly dealt with: * financing, technologies, sports, banks and events *.
+In recent years I have been mainly a * consultant *, implementing: API architectures, Database, Microservices for B2B / B2C solutions; my clients mainly dealt with: * financing, technologies, sports, banks and events *.
 
 ---
 🚀 BIO TLDR;
 <br>
-
 <img align="right" src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/Memoji.png" width="200"/>
 <p aligh="left">
  
