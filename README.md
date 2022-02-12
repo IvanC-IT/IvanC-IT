@@ -9,7 +9,7 @@ As a good developer I have a general knowledge of languages, but my most effecti
 I also work in application security by reverse engineering using __IDA__, __X64dbg__ and other tools of the CyberSec.
 
 ---
-🚀 ME;
+🚀 ME...
 <br>
 <p aligh="center">
  
