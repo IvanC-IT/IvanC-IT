@@ -16,15 +16,12 @@ Now that I'm done with all the buzzwords for the SEO! Let's just recap for human
 🚀 BIO TLDR;
 
 ---
+Hey there, welcome!
+I'm Davide, Front End developer from  Milan, Italy.
 
-- 👨‍💻 Tech Leader | Senior Software Engineer | DevOps
-- ⭐️ Node.js Specialist
-- 📚 Avid reader
-- ⛓ Crypto enthusiast
-- 📸 Spare time photographer
-- 🎸 Disastrous guitarist
-- 🏃 Runner & Hiker
-- 🛹 Skater wannabe
+- 💡  I like to explore new trends and learn new technologies.
+- 🚧  I'm currently working on two new secret projects ... 👀.
+- 💬  Feel free to reach out to me for consulting, volunteering or just for some interesting discussion.
 - 🌱 Nature lover
 - 🪐 Science passionate
 
