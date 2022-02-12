@@ -30,7 +30,14 @@ I also work in application security by reverse engineering using __IDA__, __X64d
 
 ---
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js Logo" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript Logo" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/raw/master/icons/php/php-plain.svg" alt="PHP Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/raw/master/icons/bash/bash-original.svg" alt="Bash Logo" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java Logo" width="50" height="50"/><img
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="Csharp Logo" width="50" height="50"/><img
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="Cplusplus Logo" width="50" height="50"/><img
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Logo" width="50" height="50"/><img
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="50" height="50"/><img 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js Logo" width="50" height="50"/><img 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript Logo" width="50" height="50"/><img 
+src="https://github.com/devicons/devicon/raw/master/icons/php/php-plain.svg" alt="PHP Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/raw/master/icons/bash/bash-original.svg" alt="Bash Logo" width="50" height="50"/>
 <br />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes K8s Logo" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg" alt="Laravel Logo" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-plain-wordmark.svg" alt="Apache Logo" width="50" height="50"/>
 <br />
