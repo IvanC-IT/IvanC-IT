@@ -1,9 +1,9 @@
-### Hi there, I am Ivan! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there, I'm Ivan! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 [![](https://img.shields.io/badge/-Twitter-informational?style=for-the-badge&logo=twitter&logoColor=white&color=00aced)](https://twitter.com/ivcaric)
 [![](https://img.shields.io/badge/-Linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=2867B2)](https://www.linkedin.com/in/ivan-roberto-caricato-268904185)
 
-I am Italian boy, almost fifteen years old "tested in battle" __Back End Developer__.<br>
+I'm Italian boy, almost fifteen years old "tested in battle" __Back End Developer__.<br>
 In recent years I have mainly been a __consultant__, implementing: Tibco, API (Axway), Database, Microservices for B2B / B2C solutions; my clients mainly dealt with: __Financing__, __Technologies__, __Sport__, __Banks__, __Events__.<br>
 As a good developer I have a general knowledge of languages, but my most effective weapons are  __Java__, __C#__, __C++__, __Python__, __Js__, __NodeJS__, __TypeScript__, __PHP__.<br>
 I also work in application security by reverse engineering using __IDA__, __X64dbg__ and other tools of the CyberSec.
