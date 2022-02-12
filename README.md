@@ -9,7 +9,7 @@ As a good developer I have a general knowledge of languages, but my most effecti
 I also work in application security by reverse engineering using __IDA__, __X64dbg__ and other tools of the CyberSec.
 
 ---
-🚀 BIO TLDR;
+🚀 ME;
 <br>
 <img align="right" src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/Memoji.png" width="200"/>
 <p aligh="left">
@@ -58,4 +58,4 @@ I also work in application security by reverse engineering using __IDA__, __X64d
 </div>
 ---
 
-My [github action](https://github.com/simonecorsi/mawesome) is generating an awesome list of the thousands of projects I've starred over the years, [take a look](https://github.com/simonecorsi/awesome) if you want!
+
